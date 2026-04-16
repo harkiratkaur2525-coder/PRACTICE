@@ -1,0 +1,9 @@
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+node-v20.11.1-win-x64/
+node.zip
+.env
+dist/
+build/
+.DS_Store
